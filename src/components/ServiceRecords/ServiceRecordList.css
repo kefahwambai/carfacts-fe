@@ -1,0 +1,40 @@
+.service-record-list-container {
+display: flex;
+justify-content: center !important;
+margin-bottom: 30px;
+}
+
+.service-record-list {
+width: 50vw;
+padding: 15px; 
+border-radius: 5px; 
+}
+
+.service-record-list h2 {
+color: #2980b9;
+font-size: 24px;
+margin-bottom: 15px;
+border-bottom: 2px solid #3498db;
+padding-bottom: 8px;
+}
+
+.service-record-list ul {
+list-style-type: none;
+padding: 0;
+}
+
+.service-record-list li {
+margin-bottom: 10px;
+padding: 15px;
+border-radius: 5px;
+}
+
+.service-record-list .error {
+color: #e74c3c;
+background-color: #f9d6d5;
+padding: 15px;
+border: 1px solid #e74c3c;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+  
